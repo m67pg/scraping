@@ -73,7 +73,7 @@ def create_csv_list(elems, csvlist, start_position):
     """
     CSVファイルとして出力する商品一覧を作成します。
 
-    Attributes
+    Parameters
     ----------
     elems : list of WebElement
         検索結果の商品一覧。
